@@ -1,4 +1,4 @@
-#  
+#  Enhance Alfred for macOS with smart Plugin for Alfred for macOS - offline access and export to PDF, the #1 plugin. Includes offline access and export to PDF for a smoother
 
 
 
